@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">leisureMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="notification_text">Tracking, tap to cancel</string>
+    <string name="transport_id" translatable="false">123</string>
+    <string name="leisureMaps_path" translatable="false">locations</string>
+    <string name="leisureMaps_email" translatable="false">test@example.com</string>
+    <string name="leisureMaps_password" translatable="false">password</string>
+</resources>
